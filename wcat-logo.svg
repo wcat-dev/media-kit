@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140"
+   height="140"
+   viewBox="0 0 37.041666 37.041666"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="wcat-logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="5.5526093"
+     inkscape:cx="83.384221"
+     inkscape:cy="58.621088"
+     inkscape:window-width="3840"
+     inkscape:window-height="2111"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-60.684788,-86.478172)">
+    <rect
+       style="fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke-width:1.87561;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect31602"
+       width="37.041668"
+       height="37.041668"
+       x="60.684788"
+       y="86.478172"
+       ry="1.6491669" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6782px;line-height:1.25;font-family:aakar;-inkscape-font-specification:aakar;stroke-width:0.266956"
+       x="61.24321"
+       y="101.94362"
+       id="text2564"
+       transform="scale(1.0089681,0.99111161)"><tspan
+         id="tspan2562"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.266956"
+         x="61.24321"
+         y="101.94362">WCAT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.9425px;line-height:1.25;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;stroke-width:0.273563"
+       x="61.218773"
+       y="119.16148"
+       id="text15378"
+       transform="scale(1.0339399,0.9671742)"><tspan
+         id="tspan15376"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.273563"
+         x="61.218773"
+         y="119.16148"
+         dy="0"
+         rotate="0 0 0 0 0">A11y</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.72919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.330621,104.3736 31.75,0.0867"
+       id="path28159" />
+  </g>
+</svg>
